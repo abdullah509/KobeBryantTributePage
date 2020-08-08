@@ -1,0 +1,49 @@
+#title{
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+h2{
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+#main{
+  margin: 30px 8px;
+  padding: 15px;
+  border-radius: 5px;
+  background: #eee;
+}
+
+#image{
+  
+  height: auto;
+  margin: auto;
+  max-width: 70%;
+  display: block;
+}
+#img-caption{
+  text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+#tribute-info{
+  font-family: Tahoma, Geneva, sans-serif;
+  text-align: center;
+}
+#tribute-link{
+  text-decoration: none;
+  font-family: Tahoma, Geneva, sans-serif;
+  text-align: center;
+  
+}
+ul{
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+  line-height: 2;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+li{
+  text-align: left;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
